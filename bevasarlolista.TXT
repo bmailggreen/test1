@@ -6,4 +6,5 @@ kóla
 üdítő
 kisautó
 körte
+alma
 
